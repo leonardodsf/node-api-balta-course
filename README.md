@@ -1,14 +1,6 @@
-# 1972 - Criando APIs com NodeJs
+#API Completa com NODEJS
 
-### LINK PARA OS VÍDEOS
-Você pode assistir os vídeos deste curso sendo um assinante do site http://balta.io.
-
-http://player.balta.io/#/courses/1972
-
-### Sumário
-Neste curso vamos unir a popularidade das APIs com a popularidade do JavaScript criando uma API completa com NodeJs, passando pelos principais pontos que você precisa conhecer para colocar seu projeto em produção.
-
-### Conteúdo Programático
+### Conteúdo
 * Instalação Node, NPM e VS Code
 * npm init e instalação dos pacotes
 * Criando um servidor Web
